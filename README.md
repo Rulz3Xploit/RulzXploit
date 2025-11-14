@@ -3,13 +3,17 @@
 
 - 🔭 Saya keamanan siber **Tim Informatika**
 
-- 🌱 Saat ini saya sedang mengerjakan proyek **sibuk**
+- 🌱 Saat ini saya sedang mengerjakan proyek
+- **saya sedang sibuk**
 
-- 👯 Saya ingin berkolaborasi di bidang keamanan siber **cyber of alliance**
+- 👯 Saya ingin berkolaborasi di bidang keamanan siber
+- **cyber of alliance**
 
-- 🤝 Saya mencari bantuan untuk aliansi **cyber of alliance**
+- 🤝 Saya mencari bantuan untuk aliansi
+-  **cyber of alliance**
 
-- 💬 Tanyakan tentang keamanan siber **tidak banyak yang saya ketahui**
+- 💬 Tanyakan tentang keamanan siber
+- **tidak banyak yang saya ketahui**
 
 <h3 align="left">Hubungi saya:</h3>
 <p align="left">
